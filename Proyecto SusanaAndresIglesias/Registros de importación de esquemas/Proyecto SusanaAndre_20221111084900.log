@@ -1,0 +1,87 @@
+11/11/2022 21:49:00	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Proyecto SusanaAndresIglesias' del equipo 'PARIJORCAO' por el usuario 'conca'.
+11/11/2022 21:49:00	Se inició la importación del esquema de la base de datos.
+11/11/2022 21:49:12	Recopilando credenciales de la base de datos
+11/11/2022 21:49:12	Recopilando opciones de base de datos
+11/11/2022 21:49:12	Recopilando la opción de configuración de ámbito de la base de datos genérica
+11/11/2022 21:49:12	Recopilando usuarios
+11/11/2022 21:49:12	Recopilando roles
+11/11/2022 21:49:12	Recopilando roles de aplicación
+11/11/2022 21:49:12	Recopilando pertenencias a roles
+11/11/2022 21:49:12	Recopilando grupos de archivos
+11/11/2022 21:49:13	Recopilando catálogos de texto completo
+11/11/2022 21:49:13	Recopilando ensamblados
+11/11/2022 21:49:13	Recopilando certificados
+11/11/2022 21:49:13	Recopilando claves asimétricas
+11/11/2022 21:49:13	Recopilando claves simétricas
+11/11/2022 21:49:13	Recopilando claves simétricas cifradas
+11/11/2022 21:49:13	Recopilando esquemas
+11/11/2022 21:49:13	Recopilando colecciones de esquemas XML
+11/11/2022 21:49:13	Recopilando tipos de datos definidos por el usuario
+11/11/2022 21:49:13	Recopilando tipos definidos por el usuario
+11/11/2022 21:49:13	Recopilando tipos de tabla
+11/11/2022 21:49:13	Recopilando claves únicas para tipos de tabla
+11/11/2022 21:49:13	Recopilando claves principales para tipos de tabla
+11/11/2022 21:49:13	Recopilando índices para tipos de tablas
+11/11/2022 21:49:13	Recopilando restricciones CHECK para tipos de tabla
+11/11/2022 21:49:13	Recopilando restricciones DEFAULT para tipos de tabla
+11/11/2022 21:49:13	Recopilando funciones de partición
+11/11/2022 21:49:13	Recopilando esquemas de partición
+11/11/2022 21:49:13	Recopilando funciones
+11/11/2022 21:49:13	Recopilando funciones cifradas
+11/11/2022 21:49:13	Recopilando agregados
+11/11/2022 21:49:13	Recopilando procedimientos
+11/11/2022 21:49:14	Recopilando procedimientos cifrados
+11/11/2022 21:49:14	Recopilando tablas
+11/11/2022 21:49:14	Recopilando claves principales
+11/11/2022 21:49:14	Recopilando restricciones UNIQUE
+11/11/2022 21:49:14	Recopilando claves externas
+11/11/2022 21:49:14	Recopilando restricciones DEFAULT
+11/11/2022 21:49:14	Recopilando restricciones CHECK
+11/11/2022 21:49:14	Recopilando vistas
+11/11/2022 21:49:14	Recopilando vistas cifradas
+11/11/2022 21:49:14	Recopilando índices
+11/11/2022 21:49:14	Recopilando estadísticas
+11/11/2022 21:49:14	Recopilando listas de palabras irrelevantes de índices de texto completo
+11/11/2022 21:49:14	Recopilando listas de propiedades de búsqueda
+11/11/2022 21:49:14	Recopilando propiedades de búsqueda
+11/11/2022 21:49:14	Recopilando índices de texto completo
+11/11/2022 21:49:14	Recopilando índices de almacenamiento de columnas
+11/11/2022 21:49:14	Recopilando índices espaciales
+11/11/2022 21:49:14	Recopilando índices XML
+11/11/2022 21:49:14	Recopilando índices XML selectivos
+11/11/2022 21:49:14	Recopilando desencadenadores cifrados
+11/11/2022 21:49:14	Recopilando desencadenadores
+11/11/2022 21:49:14	Recopilando DDL triggers cifrados y de CLR
+11/11/2022 21:49:14	Recopilando DDL triggers
+11/11/2022 21:49:14	Creación de la restricción perimetral en curso
+11/11/2022 21:49:14	Recopilando sinónimos
+11/11/2022 21:49:14	Recopilando valores predeterminados
+11/11/2022 21:49:14	Recopilando enlaces UDDT de restricción de datos
+11/11/2022 21:49:14	Recopilando reglas
+11/11/2022 21:49:14	Recopilando enlaces UDDT de restricción de datos
+11/11/2022 21:49:14	Recopilando tipos de mensaje
+11/11/2022 21:49:14	Recopilando colas
+11/11/2022 21:49:14	Recopilando contratos
+11/11/2022 21:49:14	Recopilando servicios
+11/11/2022 21:49:14	Recopilando notificaciones de eventos
+11/11/2022 21:49:14	Recopilando enlaces de servicio remoto
+11/11/2022 21:49:14	Recopilando prioridades de Broker
+11/11/2022 21:49:14	Recopilando firmas
+11/11/2022 21:49:14	Recopilando opciones de compresión de datos
+11/11/2022 21:49:14	Recopilando tipos de secuencia
+11/11/2022 21:49:14	Recopilando directivas de seguridad
+11/11/2022 21:49:14	Recopilar claves de cifrado de columna
+11/11/2022 21:49:14	Recopilando claves maestras de columna
+11/11/2022 21:49:14	Recopilando orígenes de datos externos
+11/11/2022 21:49:14	Recopilando formatos de archivo externos
+11/11/2022 21:49:14	Recopilando tablas externas
+11/11/2022 21:49:14	Recopilando propiedades extendidas
+11/11/2022 21:49:14	Recopilando ensamblados
+11/11/2022 21:49:15	Recopilando credenciales
+11/11/2022 21:49:15	Recopilando inicios de sesión
+11/11/2022 21:49:15	Recopilando auditorías de servidor
+11/11/2022 21:49:16	Buscando elementos duplicados en el proyecto
+11/11/2022 21:49:16	Ha finalizado el procesamiento de los elementos duplicados
+11/11/2022 21:49:17	Finalizó la importación de la base de datos.
+11/11/2022 21:49:17	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\conca\OneDrive\Escritorio\DATATOOLS\Proyecto SusanaAndresIglesias\Registros de importación de esquemas\Proyecto SusanaAndre_20221111084900.log
+11/11/2022 21:49:17	Haga clic en Finalizar para continuar...
